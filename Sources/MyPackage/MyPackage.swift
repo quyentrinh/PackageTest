@@ -6,5 +6,6 @@ public struct MyPackage {
     
     public func sayHello() {
         print(text)
+        // Hellooo kakaka momo
     }
 }
