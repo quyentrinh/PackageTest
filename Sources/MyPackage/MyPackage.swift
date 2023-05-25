@@ -16,4 +16,12 @@ public struct MyPackage {
     public func theOwneName() -> String {
         return owner
     }
+    
+    public func newFunc() {
+        print("XXXXXXX")
+    }
+    
+    public func newFunc2222() {
+        print("xxx")
+    }
 }
