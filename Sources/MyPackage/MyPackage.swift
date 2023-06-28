@@ -24,4 +24,8 @@ public struct MyPackage {
     public func newFunc2222() {
         print("xxx")
     }
+    
+    public func HAHAHAHAHA() {
+        print("1726387162381")
+    }
 }
